@@ -2,7 +2,7 @@ use RecordKeeperDB
 go
 --Medalist
 --1 show all 
-
+select *
 --2 show all but only columns Olympic Year, Country and Medal
 
 --3 show all that won their medal in the 1800s
