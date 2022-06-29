@@ -1,6 +1,6 @@
 
 --1 show me all medals won in the summer season by Greek or Spanish medalists, sorted by sport and then year
-
+session work
 /*2
 The Swiss government has requested a list of medalists from their country since 1928 who were over the age of 24 when they won their medal.
 Include only First name, last name, age when they won the medal sorted by sport and sport category.
